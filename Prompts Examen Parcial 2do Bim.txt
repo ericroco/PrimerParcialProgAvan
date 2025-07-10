@@ -1,0 +1,14 @@
+Prompt 1
+Eres un analista de datos profesional, basado en estas columnas que posee mi dataset:  |-- Formatted Date: timestamp (nullable = true)
+ |-- Summary: string (nullable = true)
+ |-- Precip Type: string (nullable = true)
+ |-- Temperature (C): double (nullable = true)
+ |-- Apparent Temperature (C): double (nullable = true)
+ |-- Humidity: double (nullable = true)
+ |-- Wind Speed (km/h): double (nullable = true)
+ |-- Wind Bearing (degrees): double (nullable = true)
+ |-- Visibility (km): double (nullable = true)
+ |-- Loud Cover: double (nullable = true)
+ |-- Pressure (millibars): double (nullable = true)
+ |-- Daily Summary: string (nullable = true)
+dame ideas sobre que relaciones puedo intentar graficar, las ideas deben ser claras y entendibles por el publico y realizables en zeppelin usando el z.show
